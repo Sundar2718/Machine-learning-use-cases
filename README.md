@@ -1,7 +1,7 @@
 ## 📌 Table of Contents
-1. [Spam Mail Prediction](#spam_mail)
-2. [Sonar Mine vs Rock Prediction](#Mine_prediction)
-3. [Diabetes Prediction](#Diabetes_prediction)
+1. [Spam Mail Prediction](#spam_mail.pynb)
+2. [Sonar Mine vs Rock Prediction](#Mine_prediction.pynb)
+3. [Diabetes Prediction](#Diabetes_prediction.pynb)
 4. [More Future Use Case (Coming Soon)](#)
 
 ---
