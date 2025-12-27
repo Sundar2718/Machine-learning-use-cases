@@ -31,4 +31,4 @@
 - **Algorithm:** [Logistic Regression]
 - **Key Skill:** [Data Collection & Pre-Processing]
 - **Description:** [This project implements a predictive model to evaluate clinical patient data and determine the likelihood of heart disease onset by identifying patterns in health indicators.]
-- **Link:** [[Link to the .ipynb file](https://github.com/Sundar2718/Machine-learning-use-cases/blob/main/Heart_disease_prediction.ipynb)
+- **Link:** [[Link to the .ipynb file](https://github.com/Sundar2718/Machine-learning-use-cases/blob/main/Heart_disease_prediction.ipynb)]
