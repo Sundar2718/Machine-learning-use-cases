@@ -3,7 +3,8 @@
 2. [Sonar Mine vs Rock Prediction](#Mine_prediction.ipynb)
 3. [Diabetes Prediction](#Diabetes_prediction.ipynb)
 4. [Heart Disease Prediction](#Heart_disease_prediction.ipynb)
-5. [More Future Use Case (Coming Soon)](#)
+5. [Loan Approval Prediction](#Loan_approval_prediction.ipynb)
+6. [More Future Use Case (Coming Soon)](#)
 
 ---
 1. ## 🔍 [Spam Mail Prediction]
@@ -32,3 +33,9 @@
 - **Key Skill:** [Data Collection & Pre-Processing]
 - **Description:** [This project implements a predictive model to evaluate clinical patient data and determine the likelihood of heart disease onset by identifying patterns in health indicators.]
 - **Link:** [[Link to the .ipynb file](https://github.com/Sundar2718/Machine-learning-use-cases/blob/main/Heart_disease_prediction.ipynb)]
+
+5. ## 🔍 [Loan approval prediction]
+- **Algorithm:** [Classifier(SVM]
+- **Key Skill:** [Data Collection, Data Visualization & Pre-Processing]
+- **Description:** [Developed an SVM-based model to predict loan approval by analyzing applicant financial and demographic data with proper data preprocessing and feature scaling.]
+- **Link:** [[Link to the .ipynb file](https://github.com/Sundar2718/Machine-learning-use-cases/blob/main/Loan_approval_prediction.ipynb)]
